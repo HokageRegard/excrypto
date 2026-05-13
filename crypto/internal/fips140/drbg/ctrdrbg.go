@@ -145,3 +145,4 @@ func (c *Counter) Generate(out []byte, additionalInput *[SeedSize]byte) (reseedR
 
 
 
+

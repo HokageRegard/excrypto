@@ -67,3 +67,4 @@ func Equal(mac1, mac2 []byte) bool {
 
 
 
+

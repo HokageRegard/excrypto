@@ -288,3 +288,4 @@ func (c *curvePoint) Negative(a *curvePoint) {
 
 
 
+

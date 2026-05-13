@@ -256,3 +256,4 @@ func testScalarMult[P nistPoint[P]](t *testing.T, newPoint func() P, c elliptic.
 
 
 
+

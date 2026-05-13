@@ -100,3 +100,4 @@ func initCipher(c *Cipher) {
 
 
 
+

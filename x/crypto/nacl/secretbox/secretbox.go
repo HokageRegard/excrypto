@@ -174,3 +174,4 @@ func Open(out, box []byte, nonce *[24]byte, key *[32]byte) ([]byte, bool) {
 
 
 
+

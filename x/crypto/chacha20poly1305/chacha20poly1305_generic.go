@@ -88,3 +88,4 @@ func (c *chacha20poly1305) openGeneric(dst, nonce, ciphertext, additionalData []
 
 
 
+

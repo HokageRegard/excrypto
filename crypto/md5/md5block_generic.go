@@ -14,3 +14,4 @@ func block(dig *digest, p []byte) {
 
 
 
+

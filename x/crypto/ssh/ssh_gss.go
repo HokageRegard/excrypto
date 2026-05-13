@@ -147,3 +147,4 @@ func buildMIC(sessionID string, username string, service string, authMethod stri
 
 
 
+

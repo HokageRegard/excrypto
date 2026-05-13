@@ -215,3 +215,4 @@ func (v *Point) VarTimeDoubleScalarBaseMult(a *Scalar, A *Point, b *Scalar) *Poi
 
 
 
+

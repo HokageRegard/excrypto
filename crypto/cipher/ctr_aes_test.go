@@ -366,3 +366,4 @@ func extractCounters(block cipher.Block, keystream []byte) []byte {
 
 
 
+

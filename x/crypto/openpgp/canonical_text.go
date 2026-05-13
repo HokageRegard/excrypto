@@ -60,3 +60,4 @@ func (cth *canonicalTextHash) BlockSize() int {
 
 
 
+

@@ -77,3 +77,4 @@ func (h *mac) Sum(out *[TagSize]byte) {
 
 
 
+

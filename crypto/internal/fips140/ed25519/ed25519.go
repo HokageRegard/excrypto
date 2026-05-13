@@ -330,3 +330,4 @@ func verifyWithDom(pub *PublicKey, message, sig []byte, domPrefix, context strin
 
 
 
+

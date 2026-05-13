@@ -73,3 +73,4 @@ func benchmarkScalarBaseMult[P nistPoint[P]](b *testing.B, p P, scalarSize int) 
 
 
 
+

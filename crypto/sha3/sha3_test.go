@@ -506,3 +506,4 @@ func BenchmarkSha3_512_1MiB(b *testing.B) { benchmarkHash(b, New512(), 1024, 102
 
 
 
+

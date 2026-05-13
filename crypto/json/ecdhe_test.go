@@ -82,3 +82,4 @@ func (s *ECDHESuite) TestEncodeDecodeECParam(c *C) {
 
 
 
+

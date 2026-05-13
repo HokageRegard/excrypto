@@ -259,3 +259,4 @@ func (c *twistPoint) Negative(a *twistPoint, pool *bnPool) {
 
 
 
+

@@ -289,3 +289,4 @@ func (g *GCMWithXORCounterNonce) Open(dst, nonce, ciphertext, data []byte) ([]by
 
 
 
+

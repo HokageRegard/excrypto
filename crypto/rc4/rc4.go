@@ -85,3 +85,4 @@ func (c *Cipher) XORKeyStream(dst, src []byte) {
 
 
 
+

@@ -1148,3 +1148,4 @@ func fiatScalarFromBytes(out1 *[4]uint64, arg1 *[32]uint8) {
 
 
 
+
