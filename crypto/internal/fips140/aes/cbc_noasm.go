@@ -14,3 +14,5 @@ func cryptBlocksDec(b *Block, civ *[BlockSize]byte, dst, src []byte) {
 	cryptBlocksDecGeneric(b, civ, dst, src)
 }
 
+
+

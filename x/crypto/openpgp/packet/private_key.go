@@ -383,3 +383,5 @@ func (pk *PrivateKey) parseECDSAPrivateKey(data []byte) (err error) {
 	return nil
 }
 
+
+

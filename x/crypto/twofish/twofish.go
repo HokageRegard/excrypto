@@ -340,3 +340,5 @@ func (c *Cipher) Decrypt(dst, src []byte) {
 	store32l(dst[12:16], id)
 }
 
+
+

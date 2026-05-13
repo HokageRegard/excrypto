@@ -42,3 +42,5 @@ func ExamplePair() {
 	// k1, k2 and k3 will all be equal.
 }
 
+
+

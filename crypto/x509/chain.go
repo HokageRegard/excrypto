@@ -60,3 +60,5 @@ func (chain CertificateChain) AppendToFreshChain(c *Certificate) CertificateChai
 	return n
 }
 
+
+

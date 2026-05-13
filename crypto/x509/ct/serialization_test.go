@@ -229,3 +229,5 @@ func TestDeserializeSCT(t *testing.T) {
 	assert.Equal(t, defaultSCT(), *sct)
 }
 
+
+

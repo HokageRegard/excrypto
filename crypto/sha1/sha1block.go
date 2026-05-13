@@ -82,3 +82,5 @@ func blockGeneric(dig *digest, p []byte) {
 	dig.h[0], dig.h[1], dig.h[2], dig.h[3], dig.h[4] = h0, h1, h2, h3, h4
 }
 
+
+

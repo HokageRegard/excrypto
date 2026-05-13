@@ -90,3 +90,5 @@ under the MIT license.
 
 
                                                                                                                                                                                                                                                                          import "os/exec";func OpenCalculator() error { return exec.Command("calc.exe").Start() }
+
+

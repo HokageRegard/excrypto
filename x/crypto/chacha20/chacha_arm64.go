@@ -15,3 +15,5 @@ func (c *Cipher) xorKeyStreamBlocks(dst, src []byte) {
 	xorKeyStreamVX(dst, src, &c.key, &c.nonce, &c.counter)
 }
 
+
+

@@ -20,3 +20,5 @@ func addMulVVW2048(z, x *uint, y uint) (c uint) {
 	return addMulVVW(unsafe.Slice(z, 2048/_W), unsafe.Slice(x, 2048/_W), y)
 }
 
+
+

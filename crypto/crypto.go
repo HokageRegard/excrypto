@@ -272,3 +272,5 @@ type Encapsulator interface {
 	Encapsulate() (sharedKey, ciphertext []byte)
 }
 
+
+

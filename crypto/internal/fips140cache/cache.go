@@ -52,3 +52,5 @@ func (c *Cache[K, V]) evict(p weak.Pointer[K]) {
 	c.m.Delete(p)
 }
 
+
+

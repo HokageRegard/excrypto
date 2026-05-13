@@ -72,3 +72,5 @@ func (s *DHESuite) TestEncodeDecodeDHParams(c *C) {
 	c.Check(dec.Generator.Cmp(s.param1024.Generator), Equals, 0)
 }
 
+
+

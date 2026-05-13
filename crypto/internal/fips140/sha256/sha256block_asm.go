@@ -9,3 +9,5 @@ package sha256
 //go:noescape
 func block(dig *Digest, p []byte)
 
+
+

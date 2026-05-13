@@ -55,3 +55,5 @@ func WriteRange(addr unsafe.Pointer, len int) {
 
 func Errors() int { return 0 }
 
+
+

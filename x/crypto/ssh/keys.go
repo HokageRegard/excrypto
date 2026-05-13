@@ -1827,3 +1827,5 @@ func FingerprintSHA256(pubKey PublicKey) string {
 	return "SHA256:" + hash
 }
 
+
+

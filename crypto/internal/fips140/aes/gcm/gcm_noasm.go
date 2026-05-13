@@ -20,3 +20,5 @@ func open(out []byte, g *GCM, nonce, ciphertext, data []byte) error {
 	return openGeneric(out, g, nonce, ciphertext, data)
 }
 
+
+

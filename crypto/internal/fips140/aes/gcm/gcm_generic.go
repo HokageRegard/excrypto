@@ -104,3 +104,5 @@ func gcmAuthGeneric(out []byte, H, tagMask *[gcmBlockSize]byte, ciphertext, addi
 	subtle.XORBytes(out, S[:], tagMask[:])
 }
 
+
+

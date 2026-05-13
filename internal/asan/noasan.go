@@ -16,3 +16,5 @@ func Read(addr unsafe.Pointer, len uintptr) {}
 
 func Write(addr unsafe.Pointer, len uintptr) {}
 
+
+

@@ -234,3 +234,5 @@ func qr(a, b, c, d uint32) (_a, _b, _c, _d uint32) {
 	return a, b, c, d
 }
 
+
+

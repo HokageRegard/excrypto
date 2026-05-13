@@ -75,3 +75,5 @@ func (h *mac) Sum(out *[TagSize]byte) {
 	finalize(out, &state.h, &state.s)
 }
 
+
+

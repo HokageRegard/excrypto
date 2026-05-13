@@ -115,3 +115,5 @@ var distInfo = map[OSArch]osArchInfo{
 	{"windows", "arm64"}:   {CgoSupported: true},
 }
 
+
+

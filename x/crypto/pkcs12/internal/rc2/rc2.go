@@ -268,3 +268,5 @@ func (c *rc2Cipher) Decrypt(dst, src []byte) {
 	binary.LittleEndian.PutUint16(dst[6:], r3)
 }
 
+
+

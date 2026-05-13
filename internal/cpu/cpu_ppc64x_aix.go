@@ -24,3 +24,5 @@ func osinit() {
 // getsystemcfg is defined in runtime/os2_aix.go
 func getsystemcfg(label uint) uint
 
+
+

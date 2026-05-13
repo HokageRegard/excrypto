@@ -247,3 +247,5 @@ func (d *Digest) checkSum() [size]byte {
 	return digest
 }
 
+
+

@@ -220,3 +220,5 @@ func (ek *EncapsulationKey1024) Encapsulate() (sharedKey, ciphertext []byte) {
 	return ek.key.Encapsulate()
 }
 
+
+

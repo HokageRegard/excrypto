@@ -22,3 +22,5 @@ func isRosetta() bool {
 	return sysctlEnabled([]byte("sysctl.proc_translated\x00"))
 }
 
+
+

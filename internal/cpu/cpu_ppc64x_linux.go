@@ -32,3 +32,5 @@ func osinit() {
 	PPC64.HasSCV = isSet(HWCap2, hwcap2_SCV)
 }
 
+
+

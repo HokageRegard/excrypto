@@ -16,3 +16,5 @@ func HighPrecisionNow() int64 {
 	return windows.QueryPerformanceCounter()
 }
 
+
+

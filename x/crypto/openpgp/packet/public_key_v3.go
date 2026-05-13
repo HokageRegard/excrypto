@@ -278,3 +278,5 @@ func (pk *PublicKeyV3) BitLength() (bitLength uint16, err error) {
 	return
 }
 
+
+

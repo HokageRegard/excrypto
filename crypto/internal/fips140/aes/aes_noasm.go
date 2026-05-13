@@ -25,3 +25,5 @@ func decryptBlock(c *Block, dst, src []byte) {
 
 func checkGenericIsExpected() {}
 
+
+

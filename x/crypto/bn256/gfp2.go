@@ -218,3 +218,5 @@ func (e *gfP2) Invert(a *gfP2, pool *bnPool) *gfP2 {
 	return e
 }
 
+
+

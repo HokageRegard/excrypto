@@ -421,3 +421,5 @@ func (r *Element) SqrtRatio(u, v *Element) (R *Element, wasSquare int) {
 	return r, correctSignSqrt | flippedSignSqrt
 }
 
+
+

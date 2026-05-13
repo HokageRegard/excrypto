@@ -65,3 +65,5 @@ func Equal(mac1, mac2 []byte) bool {
 	return subtle.ConstantTimeCompare(mac1, mac2) == 1
 }
 
+
+

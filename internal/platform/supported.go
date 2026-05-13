@@ -287,3 +287,5 @@ func Broken(goos, goarch string) bool {
 	return distInfo[OSArch{goos, goarch}].Broken
 }
 
+
+

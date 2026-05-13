@@ -80,3 +80,5 @@ func (s *ECDHESuite) TestEncodeDecodeECParam(c *C) {
 	c.Check(back, DeepEquals, ecp)
 }
 
+
+

@@ -12,3 +12,5 @@ func (s *Cipher) xorKeyStreamBlocks(dst, src []byte) {
 	s.xorKeyStreamBlocksGeneric(dst, src)
 }
 
+
+

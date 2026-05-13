@@ -257,3 +257,5 @@ func (c *twistPoint) Negative(a *twistPoint, pool *bnPool) {
 	c.t.SetZero()
 }
 
+
+

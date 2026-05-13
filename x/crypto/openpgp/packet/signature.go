@@ -730,3 +730,5 @@ func (sig *Signature) buildSubpackets() (subpackets []outputSubpacket) {
 	return
 }
 
+
+

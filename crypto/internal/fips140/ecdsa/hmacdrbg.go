@@ -175,3 +175,5 @@ func (d *hmacDRBG) Generate(out []byte) {
 	d.reseedCounter++
 }
 
+
+

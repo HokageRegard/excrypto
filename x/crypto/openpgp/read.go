@@ -447,3 +447,5 @@ func CheckArmoredDetachedSignature(keyring KeyRing, signed, signature io.Reader)
 	return CheckDetachedSignature(keyring, signed, body)
 }
 
+
+

@@ -88,3 +88,5 @@ func (c *Conn) GetHeartbleedLog() *Heartbleed {
 	return c.heartbleedLog
 }
 
+
+

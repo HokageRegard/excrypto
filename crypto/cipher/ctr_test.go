@@ -100,3 +100,5 @@ func TestCTRExtraMethods(t *testing.T) {
 	cryptotest.NoExtraMethods(t, &s)
 }
 
+
+

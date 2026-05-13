@@ -138,3 +138,5 @@ func BenchmarkXOR1K(b *testing.B) {
 	b.SetBytes(1024)
 }
 
+
+

@@ -158,3 +158,5 @@ func CheckCRLForCert(certList *pkix.CertificateList, cert *x509.Certificate, cac
 	return ret, nil
 }
 
+
+

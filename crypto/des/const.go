@@ -141,3 +141,5 @@ var sBoxes = [8][4][16]uint8{
 // Size of left rotation per round in each half of the key schedule
 var ksRotations = [16]uint8{1, 1, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1}
 
+
+

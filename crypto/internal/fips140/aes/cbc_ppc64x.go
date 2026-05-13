@@ -30,3 +30,5 @@ func cryptBlocksDec(b *Block, civ *[BlockSize]byte, dst, src []byte) {
 	}
 }
 
+
+

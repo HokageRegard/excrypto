@@ -48,3 +48,5 @@ func Verify(digest []byte, m []byte, key *[KeySize]byte) bool {
 	return hmac.Equal(digest, expectedMAC[:Size])
 }
 
+
+

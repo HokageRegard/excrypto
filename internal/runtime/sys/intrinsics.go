@@ -255,3 +255,5 @@ func GetCallerSP() uintptr
 // cmd/compile/internal/devirtualize/pgo.maybeDevirtualizeFunctionCall.
 func GetClosurePtr() uintptr
 
+
+

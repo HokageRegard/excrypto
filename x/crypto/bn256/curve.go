@@ -286,3 +286,5 @@ func (c *curvePoint) Negative(a *curvePoint) {
 	c.t.SetInt64(0)
 }
 
+
+

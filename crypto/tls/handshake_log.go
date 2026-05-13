@@ -477,3 +477,5 @@ func parsedAndRawSCTs(scts [][]byte) []ParsedAndRawSCT {
 	return out
 }
 
+
+

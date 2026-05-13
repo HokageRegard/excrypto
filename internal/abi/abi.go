@@ -104,3 +104,5 @@ func (b *IntArgRegBitmap) Get(i int) bool {
 	return *p&(uint8(1)<<(i%8)) != 0
 }
 
+
+

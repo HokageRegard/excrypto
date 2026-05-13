@@ -70,3 +70,5 @@ func MasterSecret[H hash.Hash](hash func() H, preMasterSecret, transcript []byte
 	return PRF(hash, preMasterSecret, extendedMasterSecretLabel, transcript, masterSecretLength)
 }
 
+
+

@@ -19,3 +19,5 @@ func (d *Digest) sum(b []byte) []byte {
 	return d.sumGeneric(b)
 }
 
+
+

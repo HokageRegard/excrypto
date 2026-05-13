@@ -176,3 +176,5 @@ func BenchmarkHMACSHA256(b *testing.B) {
 	benchmark(b, sha256.New)
 }
 
+
+

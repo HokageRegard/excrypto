@@ -10,3 +10,5 @@ func block(dig *Digest, p []byte) {
 	blockGeneric(dig, p)
 }
 
+
+

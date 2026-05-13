@@ -287,3 +287,5 @@ func (g *GCMWithXORCounterNonce) Open(dst, nonce, ciphertext, data []byte) ([]by
 	return g.g.Open(dst, nonce, ciphertext, data)
 }
 
+
+

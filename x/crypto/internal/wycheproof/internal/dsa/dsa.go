@@ -32,3 +32,5 @@ func VerifyASN1(pub *dsa.PublicKey, hash, sig []byte) bool {
 	return dsa.Verify(pub, hash, r, s)
 }
 
+
+

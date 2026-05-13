@@ -126,3 +126,5 @@ func (v *nafLookupTable8) SelectInto(dest *affineCached, x int8) {
 	*dest = v.points[x/2]
 }
 
+
+

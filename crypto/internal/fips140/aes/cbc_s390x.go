@@ -29,3 +29,5 @@ func cryptBlocksDec(b *Block, civ *[BlockSize]byte, dst, src []byte) {
 	cryptBlocksChain(b.function+128, &civ[0], &b.key[0], &dst[0], &src[0], len(src))
 }
 
+
+

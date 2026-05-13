@@ -98,3 +98,5 @@ func initCipher(c *Cipher) {
 	copy(c.s3[0:], s3[0:])
 }
 
+
+

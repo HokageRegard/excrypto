@@ -49,3 +49,5 @@ func decodeBMPString(bmpString []byte) (string, error) {
 	return string(utf16.Decode(s)), nil
 }
 
+
+

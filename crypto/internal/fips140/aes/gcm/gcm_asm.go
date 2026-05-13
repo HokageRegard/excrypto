@@ -130,3 +130,5 @@ func open(out []byte, g *GCM, nonce, ciphertext, data []byte) error {
 	return nil
 }
 
+
+

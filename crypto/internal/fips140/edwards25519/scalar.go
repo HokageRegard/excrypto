@@ -352,3 +352,5 @@ func (s *Scalar) signedRadix16() [64]int8 {
 	return digits
 }
 
+
+

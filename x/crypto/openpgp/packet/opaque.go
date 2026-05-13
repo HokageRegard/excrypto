@@ -160,3 +160,5 @@ func (osp *OpaqueSubpacket) Serialize(w io.Writer) (err error) {
 	return
 }
 
+
+

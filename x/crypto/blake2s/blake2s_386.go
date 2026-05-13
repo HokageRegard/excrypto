@@ -31,3 +31,5 @@ func hashBlocks(h *[8]uint32, c *[2]uint32, flag uint32, blocks []byte) {
 	}
 }
 
+
+

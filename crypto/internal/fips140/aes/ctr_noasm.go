@@ -22,3 +22,5 @@ func ctrBlocks8(b *Block, dst, src *[8 * BlockSize]byte, ivlo, ivhi uint64) {
 	ctrBlocks(b, dst[:], src[:], ivlo, ivhi)
 }
 
+
+

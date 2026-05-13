@@ -14,3 +14,5 @@ func processBlockXOR(out, in1, in2 *block) {
 	processBlockGeneric(out, in1, in2, true)
 }
 
+
+

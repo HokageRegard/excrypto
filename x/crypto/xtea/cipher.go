@@ -89,3 +89,5 @@ func initCipher(c *Cipher, key []byte) {
 	}
 }
 
+
+

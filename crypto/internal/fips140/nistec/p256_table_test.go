@@ -48,3 +48,5 @@ func testP256AffineTable(t *testing.T, base *P256Point, table *p256AffineTable) 
 	}
 }
 
+
+

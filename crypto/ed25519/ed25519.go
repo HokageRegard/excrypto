@@ -257,3 +257,5 @@ func VerifyWithOptions(publicKey PublicKey, message, sig []byte, opts *Options) 
 	}
 }
 
+
+

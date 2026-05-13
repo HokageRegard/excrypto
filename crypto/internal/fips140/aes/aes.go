@@ -131,3 +131,5 @@ func EncryptBlockInternal(c *Block, dst, src []byte) {
 	encryptBlock(c, dst, src)
 }
 
+
+

@@ -286,3 +286,5 @@ func phi(rand, m, s uint64, lane, lanes uint32) uint32 {
 	return lane*lanes + uint32((s+m-(p+1))%uint64(lanes))
 }
 
+
+

@@ -62,3 +62,5 @@ func (c *Certificate) ValidateWithStupidDetail(opts VerifyOptions) (chains []Cer
 	return
 }
 
+
+

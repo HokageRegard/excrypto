@@ -125,3 +125,5 @@ func blockGeneric(dig *digest, p []byte) {
 	dig.s[0], dig.s[1], dig.s[2], dig.s[3] = a, b, c, d
 }
 
+
+

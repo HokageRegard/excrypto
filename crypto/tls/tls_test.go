@@ -2505,3 +2505,5 @@ func (s messageOnlySigner) SignMessage(rand io.Reader, msg []byte, opts crypto.S
 	return s.Signer.Sign(rand, digest, opts)
 }
 
+
+

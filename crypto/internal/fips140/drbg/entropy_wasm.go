@@ -10,3 +10,5 @@ func readFromEntropy(b []byte) {
 	panic("FIPS-140 entropy generation is not supported on Wasm")
 }
 
+
+

@@ -394,3 +394,5 @@ func optimalAte(a *twistPoint, b *curvePoint, pool *bnPool) *gfP12 {
 	return ret
 }
 
+
+

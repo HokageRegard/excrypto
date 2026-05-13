@@ -45,3 +45,5 @@ func (wcc *weakCertCache) newCert(der []byte) (*x509.Certificate, error) {
 
 var globalCertCache = new(weakCertCache)
 
+
+

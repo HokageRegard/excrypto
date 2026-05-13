@@ -1024,3 +1024,5 @@ func init() {
 	oidDotNotationToNames["1.3.6.1.4.1.311.60.2.1.3"] = OIDName{ShortName: "jurisdictionCountry", LongName: "jurisdictionCountryName"}
 }
 
+
+

@@ -77,3 +77,5 @@ func (upte UnknownPacketTypeError) Error() string {
 	return "openpgp: unknown packet type: " + strconv.Itoa(int(upte))
 }
 
+
+

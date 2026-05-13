@@ -11,3 +11,5 @@ import "unsafe"
 func PtrStaticData() *uint32        { return nil }
 func PtrStaticText() unsafe.Pointer { return nil }
 
+
+

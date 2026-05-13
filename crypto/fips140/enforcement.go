@@ -46,3 +46,5 @@ func setBypass()       { globalBypass = 1 }
 func isBypassed() bool { return globalBypass == 1 }
 func unsetBypass()     { globalBypass = 0 }
 
+
+

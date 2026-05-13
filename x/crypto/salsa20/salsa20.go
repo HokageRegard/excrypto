@@ -57,3 +57,5 @@ func XORKeyStream(out, in []byte, nonce []byte, key *[32]byte) {
 	salsa.XORKeyStream(out, in, &subNonce, key)
 }
 
+
+

@@ -96,3 +96,5 @@ func testHashToNat[P Point[P]](t *testing.T, c *Curve[P]) {
 	}
 }
 
+
+

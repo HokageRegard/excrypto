@@ -70,3 +70,5 @@ func (f *CertificateFingerprint) MarshalJSON() ([]byte, error) {
 	return json.Marshal(f.Hex())
 }
 
+
+

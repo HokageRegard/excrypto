@@ -27,3 +27,5 @@ func TFlagOff(ptrSize int) int { return 2*ptrSize + 4 }
 // ITabTypeOff returns the offset of ITab.Type for a compilation target with a given ptrSize
 func ITabTypeOff(ptrSize int) int { return ptrSize }
 
+
+

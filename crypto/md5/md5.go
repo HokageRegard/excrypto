@@ -210,3 +210,5 @@ func Sum(data []byte) [Size]byte {
 	return d.checkSum()
 }
 
+
+

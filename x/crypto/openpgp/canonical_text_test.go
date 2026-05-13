@@ -51,3 +51,5 @@ func TestCanonicalText(t *testing.T) {
 	testCanonicalText(t, "foo\r\nbar\n\n", "foo\r\nbar\r\n\r\n")
 }
 
+
+

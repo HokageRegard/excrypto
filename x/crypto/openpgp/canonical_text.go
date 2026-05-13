@@ -58,3 +58,5 @@ func (cth *canonicalTextHash) BlockSize() int {
 	return cth.h.BlockSize()
 }
 
+
+

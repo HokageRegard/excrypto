@@ -130,3 +130,5 @@ func parseECPrivateKey(namedCurveOID *asn1.ObjectIdentifier, der []byte) (key *e
 	return ecdsa.ParseRawPrivateKey(curve, privateKey)
 }
 
+
+

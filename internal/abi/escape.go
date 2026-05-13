@@ -64,3 +64,5 @@ func EscapeToResultNonString[T any](v T) T {
 	return *(*T)(NoEscape(unsafe.Pointer(&v)))
 }
 
+
+

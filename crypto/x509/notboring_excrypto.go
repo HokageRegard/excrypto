@@ -9,3 +9,5 @@ package x509
 // so the hook always permits the certificate.
 func boringAllowCert(*Certificate) bool { return true }
 
+
+

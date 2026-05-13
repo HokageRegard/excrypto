@@ -12,3 +12,5 @@ package goos
 //
 //go:generate go run gengoos.go
 
+
+

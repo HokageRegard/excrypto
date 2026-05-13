@@ -127,3 +127,5 @@ func deriveKeyMaterialRaw(masterKey, challenge, connID []byte, total int) ([]byt
 	return out[:total], nil
 }
 
+
+

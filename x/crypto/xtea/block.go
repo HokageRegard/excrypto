@@ -65,3 +65,5 @@ func decryptBlock(c *Cipher, dst, src []byte) {
 	uint32ToBlock(v0, v1, dst)
 }
 
+
+

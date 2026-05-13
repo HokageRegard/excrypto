@@ -181,3 +181,5 @@ func hashBlocksGeneric(h *[8]uint64, c *[2]uint64, flag uint64, blocks []byte) {
 	c[0], c[1] = c0, c1
 }
 
+
+

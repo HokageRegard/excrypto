@@ -212,3 +212,5 @@ func NewCipherReducedStrength(k []byte, bits uint) (cipher.Block, error) {
 	return &rc2cipher{xk: expandkey(k, bits)}, nil
 }
 
+
+

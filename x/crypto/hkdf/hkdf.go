@@ -100,3 +100,5 @@ func New(hash func() hash.Hash, secret, salt, info []byte) io.Reader {
 	return Expand(hash, prk, info)
 }
 
+
+

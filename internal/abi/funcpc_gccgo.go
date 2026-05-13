@@ -20,3 +20,5 @@ func FuncPCABIInternal(f interface{}) uintptr {
 	return *(*uintptr)(unsafe.Pointer(words[1]))
 }
 
+
+

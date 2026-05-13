@@ -51,3 +51,5 @@ func NewLegacyKeccak512() *Digest {
 	return &Digest{rate: rateK1024, outputLen: 64, dsbyte: dsbyteKeccak}
 }
 
+
+

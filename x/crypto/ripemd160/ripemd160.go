@@ -124,3 +124,5 @@ func (d0 *digest) Sum(in []byte) []byte {
 	return append(in, digest[:]...)
 }
 
+
+

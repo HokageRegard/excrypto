@@ -41,3 +41,5 @@ func (e ErrorCode) Error() string {
 	return "ssl2: peer sent " + e.String()
 }
 
+
+

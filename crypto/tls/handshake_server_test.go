@@ -2503,3 +2503,5 @@ func testHandshakeChangeRootCAsResumption(t *testing.T, version uint16) {
 	testResume(t, serverConfig, clientConfig, true)
 }
 
+
+

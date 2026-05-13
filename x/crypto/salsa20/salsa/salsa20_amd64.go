@@ -22,3 +22,5 @@ func XORKeyStream(out, in []byte, counter *[16]byte, key *[32]byte) {
 	salsa2020XORKeyStream(&out[0], &in[0], uint64(len(in)), &counter[0], &key[0])
 }
 
+
+

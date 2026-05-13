@@ -165,3 +165,5 @@ func newCShake256(c *SHAKE, N, S []byte) *SHAKE {
 	return newCShake(c, N, S, rateK512, 64, dsbyteCShake)
 }
 
+
+

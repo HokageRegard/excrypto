@@ -53,3 +53,5 @@ func TestOutOfBoundsWrite(t *testing.T) {
 	XORKeyStream(plainText[:3], cipherText, &counter, &key)
 }
 
+
+

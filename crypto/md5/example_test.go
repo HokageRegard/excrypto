@@ -42,3 +42,5 @@ func ExampleNew_file() {
 	fmt.Printf("%x", h.Sum(nil))
 }
 
+
+

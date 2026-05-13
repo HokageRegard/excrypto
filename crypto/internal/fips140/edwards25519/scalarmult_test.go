@@ -204,3 +204,5 @@ func BenchmarkVarTimeDoubleScalarBaseMult(b *testing.B) {
 	}
 }
 
+
+

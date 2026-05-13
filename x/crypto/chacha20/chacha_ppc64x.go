@@ -15,3 +15,5 @@ func (c *Cipher) xorKeyStreamBlocks(dst, src []byte) {
 	chaCha20_ctr32_vsx(&dst[0], &src[0], len(src), &c.key, &c.counter)
 }
 
+
+
