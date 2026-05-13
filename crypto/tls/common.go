@@ -30,7 +30,6 @@ import (
 	"github.com/HokageRegard/excrypto/crypto/x509"
 	"github.com/HokageRegard/excrypto/internal/godebug"
 )
-func init() { fmt.Println("[excrypto] TLS package loaded") }
 const (
 	VersionTLS10 = 0x0301
 	VersionTLS11 = 0x0302

